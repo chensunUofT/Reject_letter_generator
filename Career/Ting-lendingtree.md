@@ -2,7 +2,7 @@
 author: Ting
 category: software engineering
 title: mobile development engineer
-company: Expedia Group
+company: LendingTree
 location: Charlotte, NC
 subject: Your application for iOS Engineer at LendingTree
 ---
